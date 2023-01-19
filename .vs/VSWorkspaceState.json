@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\product-alerts",
+    "\\src\\app\\product-details",
+    "\\src\\app\\product-list",
+    "\\src\\assets"
   ],
-  "SelectedNode": "\\C:\\Users\\dwmyers\\Source\\Repos\\angular-kyzcbm",
+  "SelectedNode": "\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
