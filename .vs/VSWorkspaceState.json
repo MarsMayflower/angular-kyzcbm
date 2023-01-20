@@ -3,11 +3,10 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\product-alerts",
-    "\\src\\app\\product-details",
-    "\\src\\app\\product-list",
+    "\\src\\app\\cart",
+    "\\src\\app\\shipping",
     "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\app\\app.module.ts",
+  "SelectedNode": "\\src\\app\\shipping\\shipping.component.html",
   "PreviewInSolutionExplorer": false
 }
